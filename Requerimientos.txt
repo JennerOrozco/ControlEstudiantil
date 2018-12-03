@@ -1,22 +1,31 @@
   Control de Notas.
 
   Tipo de Perfiles.
-    -Estudiante
+    -Estudiante y Padre de familia
     -Maestro
-    -Padre de familia
     -Administrador.
 
-  Control de cursos para que los padres de familia sepan que cursos
-  llevan sus hijos.
+  Control de cursos para que los padres de familia sepan que cursos llevan sus hijos.
 
-  Notificacion push a los padres de familia de Tareas.
+  Visualizacion de Horario estudiantil.
 
   Control en tiempo real de tareas y puntos de zona.
 
-  Consulta de examenes.
+  Consulta de fecha de examenes.
 
   Perfil de estudiante.
+
+  Gestionar actividades, como certificados.
 
   Poder mensajear con otros padres de familia.
 
   Poder tener foros para resolucion de dudas.
+
+  Notificacion push a los padres de mal comportamiento.
+
+  Notificacion push a los padres de buen comportamiento.
+
+  Notificacion push a los padres de circulares.
+
+  Notificacion push a los padres de familia de Tareas.
+
